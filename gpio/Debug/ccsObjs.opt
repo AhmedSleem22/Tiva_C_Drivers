@@ -1,0 +1,1 @@
+"./Gpio_ModuleTest.obj" "./gpio.obj" "./gpio_PBcfg.obj" -llibc.a 
